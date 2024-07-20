@@ -16,11 +16,13 @@ public class DragBall : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        Debug.Log(this);
     }
 
     void Update()
     {
+       
+       
         //on event click on drag
         if (Input.GetMouseButtonDown(0))
         {
@@ -31,6 +33,7 @@ public class DragBall : MonoBehaviour
         if (Input.GetMouseButtonUp(0))
         {
             mouseMoving = false;
+
         }
         //if its moving still
         if (mouseMoving)
@@ -66,6 +69,12 @@ public class DragBall : MonoBehaviour
             newLocation = ball.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, locationScreen.z));
             Debug.Log($"get the new location: {newLocation}");
 
+        }
+        else
+        {
+             
+           
+           
         }
     }
     //get game object on method
