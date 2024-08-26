@@ -3,8 +3,8 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 ../build.sh
-./WebGL Builds/build.sh
-WebGL Builds/build.sh
+./Builds/build.sh
+Builds/build.sh
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/

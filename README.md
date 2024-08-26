@@ -1,5 +1,5 @@
 # Unity Shooter Example
 
-First shooter game. 
+First shooter game.
 
-(always learning.)
+Learning more about WebGL Deploys in Github pages.
