@@ -1,28 +1,5 @@
-# Ball_Unity
+# Unity Shooter Example
 
+First shooter game. 
 
-Moving a Ball since Oct 2021.
-
-Created in Unity.
-
-
-More to Come!
-
-
-
-
-
-
-
-
-
-
-
-(Under construction)
-
-Thanks for reading!
-
-
-
-aimee # Unity_Shooter_Example
-# Unity_Shooter_Example
+(always learning.)
